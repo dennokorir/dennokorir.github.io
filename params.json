@@ -1,6 +1,0 @@
-{
-  "name": "Dennokorir.GitHub.io",
-  "tagline": "Test Github Page",
-  "body": "# Madiba Admin Training\r\n## Training Areas\r\n* 1.\tOverview\r\n* a.\tOdoo Web Structure\r\n* b.\tLogin\r\n* c.\tRights and Permissions for access\r\n* d.\tMessaging\r\ni.\t1. Calendar\r\n1. ii.\tNotes\r\ne.\tChat\r\nf.\tModule Structure\r\ng.\tDocument Structure\r\n2.\tFinance Overview\r\na.\tFinance Structure\r\nb.\tSetup & Configuration\r\ni.\tSetting up an Account\r\nii.\tSetting up a bank account\r\niii.\tJournals\r\niv.\tPeriods\r\nv.\tPayment Terms\r\nvi.\tFollowup\r\nc.\tChart of accounts\r\nd.\tJournals\r\ne.\tAccounts Receivable\r\ni.\tViewing Customer Account details, partner statements, due payments\r\nii.\tViewing and understanding Customer Invoices\r\niii.\tPartial Payments\r\nf.\tAccounts Payable\r\ni.\tViewing Supplier Account details\r\nii.\tViewing and understanding supplier invoices\r\niii.\tPaying suppliers\r\n3.\tInvestment\r\na.\tSetup & Configuration\r\nb.\tInvestor Management\r\nc.\tProject Management\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
